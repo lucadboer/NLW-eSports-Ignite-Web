@@ -11,6 +11,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 ## 🛠 Tecnologias
 
 - React.js
+- TypeScript
 - Tailwind CSS
 - Node.js
 - Prisma
