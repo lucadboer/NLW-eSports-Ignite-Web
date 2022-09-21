@@ -3,16 +3,14 @@
 
 ![preview](./github/preview.png)
 
-> Trilha Explorer
+> Trilha Ignite
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://lucadboer.github.io/NLW-eSports-Explorer/)
-
-
 ## 🛠 Tecnologias
 
-- HTML
-- CSS
-- Git e Github
+- React.js
+- Tailwind CSS
+- Node.js
+- Prisma
 
