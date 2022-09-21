@@ -7,7 +7,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
 - React.js
 - TypeScript
@@ -15,6 +15,6 @@ Projeto construído do evento Next Level Week da Rocketseat.
 - Node.js
 - Prisma
 
-## 💛 Contato
+## 💛 Contact
 
 luca.boer@outlook.com
