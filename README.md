@@ -3,7 +3,6 @@
 
 ![preview](./.github/preview.png)
 
-
 > Trilha Ignite
 
 Projeto construído do evento Next Level Week da Rocketseat.
@@ -16,3 +15,6 @@ Projeto construído do evento Next Level Week da Rocketseat.
 - Node.js
 - Prisma
 
+## 💛 Contato
+
+luca.boer@outlook.com
