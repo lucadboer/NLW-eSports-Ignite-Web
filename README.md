@@ -1,7 +1,9 @@
 
 # NLW eSports
 
-![preview](/github/preview.png)
+<p align="center">
+    <img width="900" src="./github/preview.png">
+</p>
 
 > Trilha Ignite
 
